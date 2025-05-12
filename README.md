@@ -2,5 +2,5 @@
 
 Authors: Laura Laurenti, Christopher W. Johnson, Daniele Trappolini, Elisa Tinti, Fabio Galasso, Chris Marone. 
 
-The code will be relezred soon.
+The code will be released soon.
 
