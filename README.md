@@ -23,7 +23,6 @@ Needed data are:
 
 - ground_motion
 Data for this task are publicly available at: https://zenodo.org/records/5767221 and https://github.com/StefanBloemheuvel/GCNTimeseriesRegression/tree/main/data
-
 Needed data are: 
   - chosenStations.pkl
   - inputs_ci.npy
