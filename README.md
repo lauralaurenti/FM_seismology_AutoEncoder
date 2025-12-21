@@ -43,15 +43,10 @@ Models in eval_models folder are intended to be used in testing, in the eval_pha
 
 packages version:
 
-pandas                    2.1.3
-
-torch                     2.1.1+cu121
-
-numpy                     1.26.2
-
-matplotlib                3.8.2
-
-transformers              4.38.0.dev0
-
+pandas                    2.1.3 <br>
+torch                     2.1.1+cu121 <br>
+numpy                     1.26.2 <br>
+matplotlib                3.8.2 <br>
+transformers              4.38.0.dev0 <br>
 scikit-learn              1.3.2 
 
