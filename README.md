@@ -15,9 +15,9 @@ The purpose is to get the embedded version of the input signal, and the reconstr
 - Norcia 
 Data for this task are publicly available at: https://zenodo.org/records/12806081
 Needed data are: 
--- dataframe_pre_NRCA
--- dataframe_visso_NRCA
--- dataframe_post_NRCA
+  - dataframe_pre_NRCA
+  - dataframe_visso_NRCA
+  - dataframe_post_NRCA
 
 
 
