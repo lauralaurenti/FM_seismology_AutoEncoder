@@ -25,11 +25,11 @@ Needed data are:
 Data for this task are publicly available at: https://zenodo.org/records/5767221 and https://github.com/StefanBloemheuvel/GCNTimeseriesRegression/tree/main/data
 
 Needed data are: 
--- chosenStations.pkl
--- inputs_ci.npy
--- meta.npy
--- station_coords.npy
--- targets.npy
+  - chosenStations.pkl
+  - inputs_ci.npy
+  - meta.npy
+  - station_coords.npy
+  - targets.npy
 
 
 - phase_detection: To make the code runnable and user-friendly, we train and test this code on on a small subset of the test set from STEAD, available at https://zenodo.org/records/15484940, which was also used in the reconstruction examples.
